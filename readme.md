@@ -1,4 +1,4 @@
-# Q-Sys ide imoprter
+# Q-Sys ide importer
 
 > Write Q-Sys code in your IDE, automatically import to your core
 
